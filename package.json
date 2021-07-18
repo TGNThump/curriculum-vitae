@@ -5,7 +5,7 @@
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
-    "build-pdf" : "DEBUG=electron* electron-pdf dist/index.html dist/cv.pdf -e",
+    "build-pdf": "electron-pdf dist/index.html dist/cv.pdf -e",
     "lint": "vue-cli-service lint"
   },
   "dependencies": {

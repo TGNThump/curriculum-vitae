@@ -21,26 +21,28 @@
           </header>
           <ul style="margin: 0 15px">
             <li style="margin-bottom: 5px">
-              Worked as the technical owner, technical designer and developer of
-              a distributed event-driven customer journey automation
-              application.
+              Technical owner, technical designer and lead developer of a
+              distributed event-driven customer journey automation application.
             </li>
             <li style="margin-bottom: 5px">
-              As part of a team, developed Spring Boot services and worked on
-              internal and external APIs.
+              Developed services, user interfaces and APIs following a 3-tier
+              application model for a complex multi-tenant customer data
+              platform.
             </li>
             <li style="margin-bottom: 5px">
-              Guided junior developers on new technologies and code quality via
-              pair-programming and code reviews.
+              Involved in mentoring and skill development for junior developers
+              with a focus on code quality through pair programming and code
+              reviews.
             </li>
             <li style="margin-bottom: 5px">
-              Assisted the operations team with investigating and resolving
-              production incidents.
+              Assisted the operations and QA teams with investigating,
+              mitigating and fixing production incidents and bugs reported by
+              customers.
             </li>
             <li style="margin-bottom: 5px">
-              Designed and developed frontend user interface pages, including a
-              complex promotion builder with a drag-n-drop nested rule/segment
-              editor.
+              Designed and developed frontend user interface pages and
+              components, including a complex promotion builder with a
+              drag-n-drop nested rule/segment editor for use by customers.
             </li>
           </ul>
           <ul class="tech-list">
@@ -53,7 +55,7 @@
             <li style="--color: #34495e">Vue.js</li>
             <li style="--color: #e535ab">GraphQL</li>
             <li style="--color: #cea328; grid-column: span 2">
-              Tomcat & Jakarta Servlets
+              Tomcat &amp; Jakarta Servlets
             </li>
             <li style="--color: #363d3f">Kafka</li>
             <li style="--color: #328fbf">Storm</li>
@@ -62,7 +64,7 @@
             </li>
             <li style="--color: #0067b8">T-SQL</li>
             <li style="--color: #13aa52; grid-column: span 2">
-              MongoDB & DocumentDB
+              MongoDB &amp; DocumentDB
             </li>
             <li style="--color: #d24939">Jenkins</li>
             <li style="--color: #93b0da">SVN</li>
@@ -80,9 +82,8 @@
             - Student Staff Theatre Technician
           </header>
           <p>
-            Student Staff Lighting Operator at Liverpool Guild of Students,
-            working with student societies and other organisations on musicals
-            and events.
+            Lighting Operator at Liverpool Guild of Students, working with
+            student societies and other organisations on musicals and events.
           </p>
         </main>
       </div>
@@ -95,9 +96,8 @@
         <aside>ActivityStreams4J</aside>
         <main>
           <p>
-            A work-in-progress Java library consisting of DTOs for the W3C
-            ActivityStreams 2.0 specification, along with the ActivityPub
-            extension.
+            Java library consisting of DTOs for the W3C ActivityStreams 2.0
+            specification, along with the ActivityPub extension.
           </p>
           <ul class="tech-list">
             <li style="--color: #b07219">Java</li>
@@ -110,7 +110,7 @@
         <main>
           <p>
             A collaborative note-taking web application designed and developed
-            as part of my University Final Year Project.
+            as part of my degree dissertation project.
           </p>
           <ul class="tech-list">
             <li style="--color: #026e00">Node.js</li>
@@ -123,9 +123,9 @@
         <aside>hub.pilgrim.me.uk</aside>
         <main>
           <p>
-            Personal home-lab with 20+ services, deployed by an infrastructure
-            as code stack. Services are listed on an open-sourced start-page
-            that dynamically discovers services exposed through Traefik reverse
+            Personal home-lab started in 2016 with 20+ services, deployed as
+            docker containers. Services are listed on an open-sourced start-page
+            that dynamically discovers ports exposed through a Traefik reverse
             proxy via the docker API.
           </p>
           <ul class="tech-list">
@@ -139,9 +139,9 @@
         <aside>EV3 SDK</aside>
         <main>
           <p>
-            A software development kit for the EV3 Mindstorm Robots that
+            Developed a java library for the EV3 Mindstorm Robots that
             facilitates the study of mobile computing problems, such as odometry
-            tracking, sensor data modeling and multi-agent systems.
+            tracking, sensor data modelling and multi-agent systems.
           </p>
           <ul class="tech-list">
             <li style="--color: #b07219">Java</li>
@@ -152,9 +152,10 @@
         <aside>OneReset</aside>
         <main>
           <p>
-            A self-service password reset kiosk system for One sixth form. The
-            kisok application allows a student at One to reset their active
-            directory password using their NFC ID card.
+            A self-service password reset kiosk system developed for One sixth
+            form college. The kisok application allowed students to reset their
+            active directory password after scanning their NFC-enabled id card
+            and verifying their identity.
           </p>
           <ul class="tech-list">
             <li style="--color: #178600">C#</li>
@@ -172,25 +173,17 @@
         <main>
           <header>
             <a href="https://www.liverpool.ac.uk/">University of Liverpool</a> -
-            BSc (Hons) Computer Science (Class I)
+            BSc (Hons) Computer Science (First Class)
           </header>
-          <small>
-            Modules include: Programming in Java, Database Development,
-            Operating Systems, Human-Centric Computing, Algorithms, Professional
-            Skills, Software Engineering, Artificial Intelligence,Multi-Agent
-            Systems, Mobile Computing, Robotics
-          </small>
         </main>
       </div>
       <div class="row">
         <aside>2014 - 2016</aside>
         <main>
           <header>
-            <a href="https://www.suffolkone.ac.uk/">One Sixth Form</a>
+            <a href="https://www.suffolkone.ac.uk/">One Sixth Form</a> - A
+            Levels: Computing (B), Electronics (A), Mathematics (D)
           </header>
-          <small>
-            A Levels: Computing (B), Electronics (A), Mathematics (D)
-          </small>
         </main>
       </div>
     </section>
@@ -199,15 +192,19 @@
         <aside><h2>Volunteering</h2></aside>
       </div>
       <div class="row">
-        <aside>2017 - 2019</aside>
+        <aside>2018 - 2019</aside>
         <main>
           <header>
-            <a href="https://www.liverpoolguild.org/groups/lgbt-society-4419"
-              >LGBT+ Society</a
-            >
-            at Liverpool Guild of Students
+            <b>Society Co-President</b> at Liverpool Guild of Students
           </header>
-          <p>Co-President (2018 - 2019) and Social Secretary (2017-2018)</p>
+        </main>
+      </div>
+      <div class="row">
+        <aside>2017 - 2018</aside>
+        <main>
+          <header>
+            <b>Society Social Secretary</b> at Liverpool Guild of Students
+          </header>
         </main>
       </div>
     </section>

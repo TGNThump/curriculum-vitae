@@ -240,6 +240,10 @@ $primary: #3a446e;
   size: A4;
 }
 
+body.A4 .sheet {
+  height: 297mm !important;
+}
+
 body {
   @media print {
     zoom: 122.5%;

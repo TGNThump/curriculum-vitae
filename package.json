@@ -8,6 +8,7 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.15.3",
     "core-js": "^3.6.5",
     "normalize.css": "^8.0.1",
     "paper-css": "^0.4.1",

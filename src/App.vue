@@ -3,11 +3,7 @@
   <div class="sheet" style="display: flex; flex-direction: column">
     <section class="row">
       <aside><h1>Benjamin Pilgrim</h1></aside>
-      <main style="display: flex; flex-direction: column; text-align: right">
-        <div>ben@pilgrim.me.uk</div>
-        <div>07950 365848</div>
-        <div>TGNThump</div>
-      </main>
+      <links />
     </section>
     <section>
       <div class="row">
@@ -213,8 +209,10 @@
 
 <script>
 import { useMeta } from "vue-meta";
+import Links from "./components/Links";
 
 export default {
+  components: { Links },
   setup() {
     useMeta({
       title: "Benjamin Pilgrim - Curriculum Vitae",

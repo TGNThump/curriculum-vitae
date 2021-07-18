@@ -9,11 +9,11 @@
   },
   "dependencies": {
     "core-js": "^3.6.5",
+    "normalize.css": "^8.0.1",
     "paper-css": "^0.4.1",
     "vue": "^3.0.0",
     "vue-meta": "^3.0.0-alpha.7"
   },
-
   "devDependencies": {
     "@vue/cli-plugin-babel": "~4.5.0",
     "@vue/cli-plugin-eslint": "~4.5.0",

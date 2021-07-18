@@ -20,6 +20,9 @@ export default {
       },
     });
   },
+  mounted() {
+    this.$nextTick(() => document.body.dispatchEvent(new Event("view-ready")));
+  },
 };
 </script>
 

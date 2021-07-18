@@ -50,18 +50,12 @@
             <li style="--color: #ff6804">Maven</li>
             <li style="--color: #34495e">Vue.js</li>
             <li style="--color: #e535ab">GraphQL</li>
-            <li style="--color: #cea328; grid-column: span 2">
-              Tomcat &amp; Jakarta Servlets
-            </li>
+            <li style="--color: #cea328">Tomcat</li>
             <li style="--color: #363d3f">Kafka</li>
             <li style="--color: #328fbf">Storm</li>
-            <li style="--color: #f98200; grid-column: span 2">
-              Jakarta Server Faces
-            </li>
+            <li style="--color: #f98200">JSF</li>
             <li style="--color: #0067b8">T-SQL</li>
-            <li style="--color: #13aa52; grid-column: span 2">
-              MongoDB &amp; DocumentDB
-            </li>
+            <li style="--color: #13aa52">MongoDB</li>
             <li style="--color: #d24939">Jenkins</li>
             <li style="--color: #93b0da">SVN</li>
             <li style="--color: #844fba">Terraform</li>

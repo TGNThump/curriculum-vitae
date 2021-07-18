@@ -1,26 +1,43 @@
 <template>
-  <img alt="Vue logo" src="./assets/logo.png" />
-  <HelloWorld msg="Welcome to Your Vue.js App" />
+  <metainfo></metainfo>
+  <div
+    class="sheet padding-10mm"
+    style="display: flex; justify-content: center"
+  >
+    <h1>Benjamin Pilgrim</h1>
+  </div>
 </template>
 
 <script>
-import HelloWorld from "./components/HelloWorld.vue";
+import { useMeta } from "vue-meta";
 
 export default {
-  name: "App",
-  components: {
-    HelloWorld,
+  setup() {
+    useMeta({
+      title: "Benjamin Pilgrim - Curriculum Vitae",
+      bodyAttrs: {
+        class: "A4",
+      },
+    });
   },
 };
 </script>
 
 <style lang="scss">
-#app {
-  font-family: Avenir, Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  color: #2c3e50;
-  margin-top: 60px;
+@import "~paper-css/paper.css";
+@page {
+  size: A4;
+}
+
+body {
+  @media print {
+    zoom: 122.5%;
+    background: white;
+  }
+  @media screen {
+    background: #484349;
+  }
+  font-family: "Montserrat", sans-serif;
+  font-size: 12px;
 }
 </style>

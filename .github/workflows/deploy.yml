@@ -16,9 +16,7 @@ jobs:
           npm run build
 
       - name: Build PDF
-          uses: GabrielBB/xvfb-action@v1
-          with:
-            run: npm run build-pdf
+          npm run build-pdf
 
       - name: Deploy 🚀
         uses: JamesIves/github-pages-deploy-action@4.1.4

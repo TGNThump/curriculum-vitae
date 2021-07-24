@@ -13,16 +13,16 @@
         <aside>2019 - Present</aside>
         <main>
           <header>
-            <a href="https://www.htk.co.uk/">HTK</a> - Software Engineer
+            <b><a href="https://www.htk.co.uk/">HTK</a></b> - Software Engineer
           </header>
           <ul style="margin: 0 15px">
             <li style="margin-bottom: 5px">
-              Technical owner, technical designer and lead developer of a
-              distributed event-driven customer journey automation application.
+              Technical owner, designer and lead developer of a distributed
+              event-driven customer journey automation platform.
             </li>
             <li style="margin-bottom: 5px">
-              Developed services, user interfaces and APIs following a 3-tier
-              application model for a complex multi-tenant customer data
+              Development of services, user interfaces and APIs following a
+              3-tier application model for a complex multi-tenant customer data
               platform.
             </li>
             <li style="margin-bottom: 5px">
@@ -31,34 +31,36 @@
               reviews.
             </li>
             <li style="margin-bottom: 5px">
-              Assisted the operations and QA teams with investigating,
-              mitigating and fixing production incidents and bugs reported by
-              customers.
+              Assisted the operations and quality assurance teams with
+              investigating, mitigating and fixing production incidents and bugs
+              reported by customers.
             </li>
             <li style="margin-bottom: 5px">
-              Designed and developed frontend user interface pages and
+              Designing and developing frontend user interface pages and
               components, including a complex promotion builder with a
-              drag-n-drop nested rule/segment editor for use by customers.
+              'drag-n-drop' nested rule/segment editor for use by customers.
             </li>
           </ul>
-          <ul class="tech-list">
+          <ul class="tech-list squares">
+            <li style="--color: #e535ab">GraphQL</li>
             <li style="--color: #b07219">Java</li>
             <li style="--color: #f1e05a">JavaScript</li>
-            <li style="--color: #ff9900">AWS</li>
             <li style="--color: #80ea6e">Spring</li>
-            <li style="--color: #25a162">JUnit</li>
-            <li style="--color: #ff6804">Maven</li>
             <li style="--color: #34495e">Vue.js</li>
-            <li style="--color: #e535ab">GraphQL</li>
-            <li style="--color: #cea328">Tomcat</li>
-            <li style="--color: #363d3f">Kafka</li>
-            <li style="--color: #328fbf">Storm</li>
-            <li style="--color: #f98200">JSF</li>
-            <li style="--color: #0067b8">T-SQL</li>
-            <li style="--color: #13aa52">MongoDB</li>
+          </ul>
+          <ul class="tech-list">
+            <li style="--color: #ff9900">AWS</li>
             <li style="--color: #d24939">Jenkins</li>
+            <li style="--color: #f98200">JSF</li>
+            <li style="--color: #25a162">JUnit</li>
+            <li style="--color: #363d3f">Kafka</li>
+            <li style="--color: #ff6804">Maven</li>
+            <li style="--color: #13aa52">MongoDB</li>
+            <li style="--color: #328fbf">Storm</li>
             <li style="--color: #93b0da">SVN</li>
+            <li style="--color: #0067b8">T-SQL</li>
             <li style="--color: #844fba">Terraform</li>
+            <li style="--color: #cea328">Tomcat</li>
           </ul>
         </main>
       </div>
@@ -66,14 +68,17 @@
         <aside>2018 - 2019</aside>
         <main>
           <header>
-            <a href="https://www.liverpoolguild.org/"
-              >Liverpool Guild of Students</a
+            <b
+              ><a href="https://www.liverpoolguild.org/"
+                >Liverpool Guild of Students</a
+              ></b
             >
             - Student Staff Theatre Technician
           </header>
           <p>
-            Lighting Operator at Liverpool Guild of Students, working with
-            student societies and other organisations on musicals and events.
+            Lighting and Sound Operator at Liverpool Guild of Students, working
+            with student societies and other organisations on musicals and
+            events.
           </p>
         </main>
       </div>
@@ -83,13 +88,21 @@
         <aside><h2>Personal Projects</h2></aside>
       </div>
       <div class="row">
-        <aside>ActivityStreams4J</aside>
+        <aside>
+          <a
+            href="https://github.com/TGNThump/ActivityStreams4J"
+            target="_blank"
+            >ActivityStreams4J</a
+          >
+        </aside>
         <main>
           <p>
-            Java library consisting of DTOs for the W3C ActivityStreams 2.0
-            specification, along with the ActivityPub extension.
+            A personal open source project creating a Java library consisting of
+            data transfer objects for the W3C ActivityStreams 2.0 specification,
+            along with the ActivityPub extension.
           </p>
           <ul class="tech-list">
+            <li style="--color: #f14e32">Git</li>
             <li style="--color: #b07219">Java</li>
             <li style="--color: #25a162">JUnit</li>
           </ul>
@@ -103,14 +116,19 @@
             as part of my degree dissertation project.
           </p>
           <ul class="tech-list">
-            <li style="--color: #026e00">Node.js</li>
+            <li style="--color: #f14e32">Git</li>
             <li style="--color: #e535ab">GraphQL</li>
+            <li style="--color: #026e00">Node.js</li>
             <li style="--color: #34495e">Vue.js</li>
           </ul>
         </main>
       </div>
       <div class="row">
-        <aside>hub.pilgrim.me.uk</aside>
+        <aside>
+          <a href="https://hub.pilgrim.me.uk/" target="_blank"
+            >hub.pilgrim.me.uk</a
+          >
+        </aside>
         <main>
           <p>
             Personal home-lab started in 2016 with 20+ services, deployed as
@@ -120,6 +138,7 @@
           </p>
           <ul class="tech-list">
             <li style="--color: #0db7ed">Docker</li>
+            <li style="--color: #f14e32">Git</li>
             <li style="--color: #d24939">Jenkins</li>
             <li style="--color: #110325">Traefik</li>
           </ul>
@@ -134,6 +153,7 @@
             tracking, sensor data modelling and multi-agent systems.
           </p>
           <ul class="tech-list">
+            <li style="--color: #f14e32">Git</li>
             <li style="--color: #b07219">Java</li>
           </ul>
         </main>
@@ -142,13 +162,15 @@
         <aside>OneReset</aside>
         <main>
           <p>
-            A self-service password reset kiosk system developed for One sixth
-            form college. The kisok application allowed students to reset their
-            active directory password after scanning their NFC-enabled id card
-            and verifying their identity.
+            A self-service password reset kiosk system, developed for the One
+            sixth form college. The kiosk application allowed students to reset
+            their active directory password without needing to contact the
+            service desk for human assistance after scanning their NFC-enabled
+            id card and verifying their identity.
           </p>
           <ul class="tech-list">
             <li style="--color: #178600">C#</li>
+            <li style="--color: #f14e32">Git</li>
             <li style="--color: #4f5d95">PHP</li>
           </ul>
         </main>
@@ -162,8 +184,12 @@
         <aside>2016 - 2019</aside>
         <main>
           <header>
-            <a href="https://www.liverpool.ac.uk/">University of Liverpool</a> -
-            BSc (Hons) Computer Science (First Class)
+            <b
+              ><a href="https://www.liverpool.ac.uk/"
+                >University of Liverpool</a
+              ></b
+            >
+            - BSc (Hons) Computer Science (First Class)
           </header>
         </main>
       </div>
@@ -171,8 +197,8 @@
         <aside>2014 - 2016</aside>
         <main>
           <header>
-            <a href="https://www.suffolkone.ac.uk/">One Sixth Form</a> - A
-            Levels: Computing (B), Electronics (A), Mathematics (D)
+            <b><a href="https://www.suffolkone.ac.uk/">One Sixth Form</a></b> -
+            A Levels: Computing (B), Electronics (A), Mathematics (D)
           </header>
         </main>
       </div>
@@ -186,6 +212,7 @@
         <main>
           <header>
             <b>Society Co-President</b> at Liverpool Guild of Students
+            (University of Liverpool)
           </header>
         </main>
       </div>
@@ -194,6 +221,7 @@
         <main>
           <header>
             <b>Society Social Secretary</b> at Liverpool Guild of Students
+            (University of Liverpool)
           </header>
         </main>
       </div>
@@ -258,7 +286,7 @@ body {
 
 a,
 a:hover {
-  font-weight: bold;
+  font-weight: inherit;
   color: inherit;
   text-decoration: none;
   font-style: normal;
@@ -323,6 +351,14 @@ h1 {
 
   li {
     flex-shrink: 0;
+  }
+
+  &.squares {
+    padding-bottom: 10px;
+
+    li::before {
+      border-radius: 20%;
+    }
   }
 
   li::before {

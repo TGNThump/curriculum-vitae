@@ -17,11 +17,15 @@
           </header>
           <ul style="margin: 0 15px">
             <li style="margin-bottom: 5px">
+              Designed and developed a multi-account AWS architecture using
+              Terraform for a greenfield data lakehouse platform.
+            </li>
+            <li style="margin-bottom: 5px">
               Technical owner, designer and lead developer of a distributed
               event-driven customer journey automation platform.
             </li>
             <li style="margin-bottom: 5px">
-              Development of services, user interfaces and APIs following a
+              Developed services, user interfaces and APIs following a 3-tier
               3-tier application model for a complex multi-tenant customer data
               platform.
             </li>
@@ -36,20 +40,22 @@
               reported by customers.
             </li>
             <li style="margin-bottom: 5px">
-              Designing and developing frontend user interface pages and
+              Designed and developed frontend user interface pages and
               components, including a complex promotion builder with a
               'drag-n-drop' nested rule/segment editor for use by customers.
             </li>
           </ul>
           <ul class="tech-list squares">
+            <li style="--color: #ff9900">AWS</li>
+            <li style="--color: #844fba">Terraform</li>
+            <li style="--color: #f14e32">Git</li>
+            <li style="--color: #0db7ed">Docker</li>
             <li style="--color: #e535ab">GraphQL</li>
             <li style="--color: #b07219">Java</li>
-            <li style="--color: #f1e05a">JavaScript</li>
             <li style="--color: #80ea6e">Spring</li>
+            <li style="--color: #f1e05a">JavaScript</li>
             <li style="--color: #34495e">Vue.js</li>
-          </ul>
-          <ul class="tech-list">
-            <li style="--color: #ff9900">AWS</li>
+            <li style="--color: #0067b8">T-SQL</li>
             <li style="--color: #d24939">Jenkins</li>
             <li style="--color: #f98200">JSF</li>
             <li style="--color: #25a162">JUnit</li>
@@ -58,8 +64,6 @@
             <li style="--color: #13aa52">MongoDB</li>
             <li style="--color: #328fbf">Storm</li>
             <li style="--color: #93b0da">SVN</li>
-            <li style="--color: #0067b8">T-SQL</li>
-            <li style="--color: #844fba">Terraform</li>
             <li style="--color: #cea328">Tomcat</li>
           </ul>
         </main>
@@ -80,99 +84,6 @@
             with student societies and other organisations on musicals and
             events.
           </p>
-        </main>
-      </div>
-    </section>
-    <section>
-      <div class="row">
-        <aside><h2>Personal Projects</h2></aside>
-      </div>
-      <div class="row">
-        <aside>
-          <a
-            href="https://github.com/TGNThump/ActivityStreams4J"
-            target="_blank"
-            >ActivityStreams4J</a
-          >
-        </aside>
-        <main>
-          <p>
-            A personal open source project creating a Java library consisting of
-            data transfer objects for the W3C ActivityStreams 2.0 specification,
-            along with the ActivityPub extension.
-          </p>
-          <ul class="tech-list">
-            <li style="--color: #f14e32">Git</li>
-            <li style="--color: #b07219">Java</li>
-            <li style="--color: #25a162">JUnit</li>
-          </ul>
-        </main>
-      </div>
-      <div class="row">
-        <aside>scribbled.by</aside>
-        <main>
-          <p>
-            A collaborative note-taking web application designed and developed
-            as part of my degree dissertation project.
-          </p>
-          <ul class="tech-list">
-            <li style="--color: #f14e32">Git</li>
-            <li style="--color: #e535ab">GraphQL</li>
-            <li style="--color: #026e00">Node.js</li>
-            <li style="--color: #34495e">Vue.js</li>
-          </ul>
-        </main>
-      </div>
-      <div class="row">
-        <aside>
-          <a href="https://hub.pilgrim.me.uk/" target="_blank"
-            >hub.pilgrim.me.uk</a
-          >
-        </aside>
-        <main>
-          <p>
-            Personal home-lab started in 2016 with 20+ services, deployed as
-            docker containers. Services are listed on an open-sourced start-page
-            that dynamically discovers ports exposed through a Traefik reverse
-            proxy via the docker API.
-          </p>
-          <ul class="tech-list">
-            <li style="--color: #0db7ed">Docker</li>
-            <li style="--color: #f14e32">Git</li>
-            <li style="--color: #d24939">Jenkins</li>
-            <li style="--color: #110325">Traefik</li>
-          </ul>
-        </main>
-      </div>
-      <div class="row">
-        <aside>EV3 SDK</aside>
-        <main>
-          <p>
-            Developed a java library for the EV3 Mindstorm Robots that
-            facilitates the study of mobile computing problems, such as odometry
-            tracking, sensor data modelling and multi-agent systems.
-          </p>
-          <ul class="tech-list">
-            <li style="--color: #f14e32">Git</li>
-            <li style="--color: #b07219">Java</li>
-          </ul>
-        </main>
-      </div>
-      <div class="row">
-        <aside>OneReset</aside>
-        <main>
-          <p>
-            A self-service password reset kiosk system, developed for the One
-            sixth form college. The kiosk application allowed students to reset
-            their active directory password without needing to contact the
-            service desk for human assistance after scanning their NFC-enabled
-            id card and verifying their identity.
-          </p>
-          <ul class="tech-list">
-            <li style="--color: #178600">C#</li>
-            <li style="--color: #f14e32">Git</li>
-            <li style="--color: #4f5d95">PHP</li>
-          </ul>
         </main>
       </div>
     </section>
@@ -223,6 +134,73 @@
             <b>Society Social Secretary</b> at Liverpool Guild of Students
             (University of Liverpool)
           </header>
+        </main>
+      </div>
+    </section>
+    <section>
+      <div class="row">
+        <aside><h2>Personal Projects</h2></aside>
+      </div>
+      <div class="row">
+        <aside>
+          <a
+            href="https://github.com/TGNThump/ActivityStreams4J"
+            target="_blank"
+            >ActivityStreams4J</a
+          >
+        </aside>
+        <main>
+          <p>
+            A personal open source project creating a Java library consisting of
+            data transfer objects for the W3C ActivityStreams 2.0 specification,
+            along with the ActivityPub extension.
+          </p>
+        </main>
+      </div>
+      <div class="row">
+        <aside>scribbled.by</aside>
+        <main>
+          <p>
+            A collaborative note-taking web application designed and developed
+            as part of my degree dissertation project.
+          </p>
+        </main>
+      </div>
+      <div class="row">
+        <aside>
+          <a href="https://hub.pilgrim.me.uk/" target="_blank"
+            >hub.pilgrim.me.uk</a
+          >
+        </aside>
+        <main>
+          <p>
+            Personal home-lab started in 2016 with 20+ services, deployed as
+            docker containers. Services are listed on an open-sourced start-page
+            that dynamically discovers ports exposed through a Traefik reverse
+            proxy via the docker API.
+          </p>
+        </main>
+      </div>
+      <div class="row">
+        <aside>EV3 SDK</aside>
+        <main>
+          <p>
+            A java library for the EV3 Mindstorm Robots that facilitates the
+            study of mobile computing problems, such as odometry tracking,
+            sensor data modelling and multi-agent systems.
+          </p>
+        </main>
+      </div>
+      <div class="row">
+        <aside>OneReset</aside>
+        <main>
+          <p>
+            A self-service password reset kiosk system, developed for the One
+            sixth form college. The kiosk application allowed students to reset
+            their active directory password without needing to contact the
+            service desk for human assistance after scanning their NFC-enabled
+            id card and verifying their identity.
+          </p>
         </main>
       </div>
     </section>

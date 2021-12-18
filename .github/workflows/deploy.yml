@@ -17,7 +17,7 @@ jobs:
 
       - name: Build PDF
         run: |
-          Xvfb -ac -screen scrn 1280x2000x24 :9.0 & export DISPLAY=:9.0 && npm run build-pdf
+          Xvfb -ac -screen scrn 1280x2000x24 :9.0 & export DISPLAY=:9.0 && npx electron-pdf /home/runner/work/curriculum-vitae/curriculum-vitae/dist/index.html /home/runner/work/curriculum-vitae/curriculum-vitae/dist/cv.pdf -e
 
       - name: Deploy 🚀
         uses: JamesIves/github-pages-deploy-action@4.1.4

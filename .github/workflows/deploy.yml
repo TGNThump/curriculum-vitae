@@ -3,6 +3,9 @@ on:
   push:
     branches-ignore:
       - gh-pages
+    tags:
+      - *
+
 jobs:
   build-and-deploy:
     runs-on: ubuntu-latest

@@ -10,7 +10,43 @@
         <aside><h2>Employment</h2></aside>
       </div>
       <div class="row">
-        <aside>2019 - Present</aside>
+        <aside>2022 - Current</aside>
+        <main>
+          <header>
+            <b><a href="https://careers.vodafone.co.uk/digital-consumer">Vodafone</a></b> - DevOps Engineer <span style="opacity: 0.75">(via MMT Digital)</span>
+          </header>
+          <ul style="margin: 0 15px">
+            <li style="margin-bottom: 5px">
+              Lead design and development on implementing Pact based contract testing CI workflows spanning multiple projects and teams to increase code quality and make deployments safer.
+            </li>
+            <li style="margin-bottom: 5px">
+              Worked collaboratively with a team to develop high level journey/channel availability dashboards for use by senior executives to gain awareness of uptime and availability.
+            </li>
+          </ul>
+          <header>
+            <b><a href="https://www.mmtdigital.co.uk/">MMT Digital</a></b> - Cloud Systems Engineer
+          </header>
+          <ul style="margin: 0 15px">
+            <li style="margin-bottom: 5px">
+              Lead a MMT Digital fast-track team to deliver an AWS infrastructure project, making use of Azure DevOps pipelines for CI/CD, to the highest quality the program had seen.
+            </li>
+            <li style="margin-bottom: 5px">
+              Developed an open-source Jetbrains IDE plugin to bring cfn-nag based linting support for CloudFormation templates into PyCharm and IntelliJ.
+            </li>
+          </ul>
+          <ul class="tech-list squares">
+            <li style="--color: #ff9900">AWS</li>
+            <li style="--color: #844fba">Terraform</li>
+            <li style="--color: #ff9900;  grid-column: span 2;">CloudFormation</li>
+            <li style="--color: #0062ad; grid-column: span 2;">Azure DevOps</li>
+            <li style="--color: #f14e32">Git</li>
+            <li style="--color: #0db7ed">Docker</li>
+            <li style="--color: #4b8bbe">Python</li>
+          </ul>
+        </main>
+      </div>
+      <div class="row">
+        <aside>2019 - 2022</aside>
         <main>
           <header>
             <b><a href="https://www.htk.co.uk/">HTK</a></b> - Software Engineer
@@ -137,73 +173,73 @@
         </main>
       </div>
     </section>
-    <section>
-      <div class="row">
-        <aside><h2>Personal Projects</h2></aside>
-      </div>
-      <div class="row">
-        <aside>
-          <a
-            href="https://github.com/TGNThump/ActivityStreams4J"
-            target="_blank"
-            >ActivityStreams4J</a
-          >
-        </aside>
-        <main>
-          <p>
-            A personal open source project creating a Java library consisting of
-            data transfer objects for the W3C ActivityStreams 2.0 specification,
-            along with the ActivityPub extension.
-          </p>
-        </main>
-      </div>
-      <div class="row">
-        <aside>scribbled.by</aside>
-        <main>
-          <p>
-            A collaborative note-taking web application designed and developed
-            as part of my degree dissertation project.
-          </p>
-        </main>
-      </div>
-      <div class="row">
-        <aside>
-          <a href="https://hub.pilgrim.me.uk/" target="_blank"
-            >hub.pilgrim.me.uk</a
-          >
-        </aside>
-        <main>
-          <p>
-            Personal home-lab started in 2016 with 20+ services, deployed as
-            docker containers. Services are listed on an open-sourced start-page
-            that dynamically discovers ports exposed through a Traefik reverse
-            proxy via the docker API.
-          </p>
-        </main>
-      </div>
-      <div class="row">
-        <aside>EV3 SDK</aside>
-        <main>
-          <p>
-            A java library for the EV3 Mindstorm Robots that facilitates the
-            study of mobile computing problems, such as odometry tracking,
-            sensor data modelling and multi-agent systems.
-          </p>
-        </main>
-      </div>
-      <div class="row">
-        <aside>OneReset</aside>
-        <main>
-          <p>
-            A self-service password reset kiosk system, developed for the One
-            sixth form college. The kiosk application allowed students to reset
-            their active directory password without needing to contact the
-            service desk for human assistance after scanning their NFC-enabled
-            id card and verifying their identity.
-          </p>
-        </main>
-      </div>
-    </section>
+<!--    <section>-->
+<!--      <div class="row">-->
+<!--        <aside><h2>Personal Projects</h2></aside>-->
+<!--      </div>-->
+<!--      <div class="row">-->
+<!--        <aside>-->
+<!--          <a-->
+<!--            href="https://github.com/TGNThump/ActivityStreams4J"-->
+<!--            target="_blank"-->
+<!--            >ActivityStreams4J</a-->
+<!--          >-->
+<!--        </aside>-->
+<!--        <main>-->
+<!--          <p>-->
+<!--            A personal open source project creating a Java library consisting of-->
+<!--            data transfer objects for the W3C ActivityStreams 2.0 specification,-->
+<!--            along with the ActivityPub extension.-->
+<!--          </p>-->
+<!--        </main>-->
+<!--      </div>-->
+<!--      <div class="row">-->
+<!--        <aside>scribbled.by</aside>-->
+<!--        <main>-->
+<!--          <p>-->
+<!--            A collaborative note-taking web application designed and developed-->
+<!--            as part of my degree dissertation project.-->
+<!--          </p>-->
+<!--        </main>-->
+<!--      </div>-->
+<!--      <div class="row">-->
+<!--        <aside>-->
+<!--          <a href="https://hub.pilgrim.me.uk/" target="_blank"-->
+<!--            >hub.pilgrim.me.uk</a-->
+<!--          >-->
+<!--        </aside>-->
+<!--        <main>-->
+<!--          <p>-->
+<!--            Personal home-lab started in 2016 with 20+ services, deployed as-->
+<!--            docker containers. Services are listed on an open-sourced start-page-->
+<!--            that dynamically discovers ports exposed through a Traefik reverse-->
+<!--            proxy via the docker API.-->
+<!--          </p>-->
+<!--        </main>-->
+<!--      </div>-->
+<!--      <div class="row">-->
+<!--        <aside>EV3 SDK</aside>-->
+<!--        <main>-->
+<!--          <p>-->
+<!--            A java library for the EV3 Mindstorm Robots that facilitates the-->
+<!--            study of mobile computing problems, such as odometry tracking,-->
+<!--            sensor data modelling and multi-agent systems.-->
+<!--          </p>-->
+<!--        </main>-->
+<!--      </div>-->
+<!--      <div class="row">-->
+<!--        <aside>OneReset</aside>-->
+<!--        <main>-->
+<!--          <p>-->
+<!--            A self-service password reset kiosk system, developed for the One-->
+<!--            sixth form college. The kiosk application allowed students to reset-->
+<!--            their active directory password without needing to contact the-->
+<!--            service desk for human assistance after scanning their NFC-enabled-->
+<!--            id card and verifying their identity.-->
+<!--          </p>-->
+<!--        </main>-->
+<!--      </div>-->
+<!--    </section>-->
   </div>
 </template>
 
@@ -329,6 +365,7 @@ h1 {
 
   li {
     flex-shrink: 0;
+    display: flex;
   }
 
   &.squares {

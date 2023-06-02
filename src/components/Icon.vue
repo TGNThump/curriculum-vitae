@@ -4,22 +4,22 @@
 
 <script>
 export default {
-  name: "Icon",
+  name: 'Icon',
   props: {
     name: {
       type: String,
-      default: "",
+      default: ''
     },
     regular: Boolean,
-    brand: Boolean,
-  },
-};
+    brand: Boolean
+  }
+}
 </script>
 
 <style lang="scss" scoped>
-$fa-font-path: "~@fortawesome/fontawesome-free/webfonts";
-@import "~@fortawesome/fontawesome-free/scss/fontawesome";
-@import "~@fortawesome/fontawesome-free/scss/solid";
-@import "~@fortawesome/fontawesome-free/scss/regular";
-@import "~@fortawesome/fontawesome-free/scss/brands";
+$fa-font-path: '@fortawesome/fontawesome-free/webfonts';
+@import '@fortawesome/fontawesome-free/scss/fontawesome';
+@import '@fortawesome/fontawesome-free/scss/solid';
+@import '@fortawesome/fontawesome-free/scss/regular';
+@import '@fortawesome/fontawesome-free/scss/brands';
 </style>

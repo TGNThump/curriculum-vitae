@@ -13,18 +13,37 @@
         <aside>2022 - Current</aside>
         <main>
           <header>
-            <b><a href="https://careers.vodafone.co.uk/digital-consumer">Vodafone</a></b> - DevOps
+            <b><a href="https://careers.vodafone.co.uk/digital-consumer">Vodafone</a></b> - Senior DevOps
             Engineer <span style="opacity: 0.75">(via MMT Digital)</span>
           </header>
           <ul style="margin: 0 15px">
             <li style="margin-bottom: 5px">
+              As a technical lead and senior engineer, I've championed software engineering and DevOps best practices, guiding my team to
+              improve code quality and reliability through automated testing, linting, formatting and type-checking at CI time.
+              I've also mentored junior and mid level engineers through pair programming and code reviews.
+            </li>
+            <li style="margin-bottom: 5px">
+              As part of the SRE Leadership Team, I've helped to define and implement a strategy for the creation of a
+              global cloud engineering platform, a strategic initiative to centralise Cloud Engineering functions
+              across Vodafone into a single platform, driving internal efficiency while reducing time-to-market.
+            </li>
+            <li style="margin-bottom: 5px">
+              I've worked across team boundaries, delegating where necessary, to mitigate blockers to strategic delivery.
+            </li>
+            <li style="margin-bottom: 5px">
+              I was drafted into a "Skunk Works" team of 8 engineers to spend two weeks delivering an end-to-end prototype
+              of the platform, driving rapid realisation of RIO by unlocking immediate value for both our team
+              and another local market.
+            </li>
+            <li style="margin-bottom: 5px">
+              I developed a package manager CLI tool and web interface for parameterised service templates,
+              accelerating time to market for Vodafone developers worldwide by enabling deployment of
+              new service repositories, complete with baseline, CI/CD, infrastructure and code in minutes rather than days.
+            </li>
+            <li style="margin-bottom: 5px">
               Lead design and development on implementing Pact based contract testing CI workflows
               spanning multiple projects and teams to increase code quality and make deployments
               safer.
-            </li>
-            <li style="margin-bottom: 5px">
-              Worked collaboratively with a team to develop high level journey/channel availability
-              dashboards for use by senior executives to gain awareness of uptime and availability.
             </li>
           </ul>
           <header>
@@ -40,15 +59,15 @@
               for CloudFormation templates into PyCharm and IntelliJ.
             </li>
           </ul>
-          <ul class="tech-list squares">
-            <li style="--color: #ff9900">AWS</li>
-            <li style="--color: #844fba">Terraform</li>
-            <li style="--color: #ff9900; grid-column: span 2">CloudFormation</li>
-            <li style="--color: #0062ad; grid-column: span 2">Azure DevOps</li>
-            <li style="--color: #f14e32">Git</li>
-            <li style="--color: #0db7ed">Docker</li>
-            <li style="--color: #4b8bbe">Python</li>
-          </ul>
+<!--          <ul class="tech-list squares">-->
+<!--            <li style="&#45;&#45;color: #ff9900">AWS</li>-->
+<!--            <li style="&#45;&#45;color: #844fba">Terraform</li>-->
+<!--            <li style="&#45;&#45;color: #ff9900; grid-column: span 2">CloudFormation</li>-->
+<!--            <li style="&#45;&#45;color: #0062ad; grid-column: span 2">Azure DevOps</li>-->
+<!--            <li style="&#45;&#45;color: #f14e32">Git</li>-->
+<!--            <li style="&#45;&#45;color: #0db7ed">Docker</li>-->
+<!--            <li style="&#45;&#45;color: #4b8bbe">Python</li>-->
+<!--          </ul>-->
         </main>
       </div>
       <div class="row">
@@ -84,27 +103,27 @@
               customers.
             </li>
           </ul>
-          <ul class="tech-list squares">
-            <li style="--color: #ff9900">AWS</li>
-            <li style="--color: #844fba">Terraform</li>
-            <li style="--color: #f14e32">Git</li>
-            <li style="--color: #0db7ed">Docker</li>
-            <li style="--color: #e535ab">GraphQL</li>
-            <li style="--color: #b07219">Java</li>
-            <li style="--color: #80ea6e">Spring</li>
-            <li style="--color: #f1e05a">JavaScript</li>
-            <li style="--color: #34495e">Vue.js</li>
-            <li style="--color: #0067b8">T-SQL</li>
-            <li style="--color: #d24939">Jenkins</li>
-            <li style="--color: #f98200">JSF</li>
-            <li style="--color: #25a162">JUnit</li>
-            <li style="--color: #363d3f">Kafka</li>
-            <li style="--color: #ff6804">Maven</li>
-            <li style="--color: #13aa52">MongoDB</li>
-            <li style="--color: #328fbf">Storm</li>
-            <li style="--color: #93b0da">SVN</li>
-            <li style="--color: #cea328">Tomcat</li>
-          </ul>
+<!--          <ul class="tech-list squares">-->
+<!--            <li style="&#45;&#45;color: #ff9900">AWS</li>-->
+<!--            <li style="&#45;&#45;color: #844fba">Terraform</li>-->
+<!--            <li style="&#45;&#45;color: #f14e32">Git</li>-->
+<!--            <li style="&#45;&#45;color: #0db7ed">Docker</li>-->
+<!--            <li style="&#45;&#45;color: #e535ab">GraphQL</li>-->
+<!--            <li style="&#45;&#45;color: #b07219">Java</li>-->
+<!--            <li style="&#45;&#45;color: #80ea6e">Spring</li>-->
+<!--            <li style="&#45;&#45;color: #f1e05a">JavaScript</li>-->
+<!--            <li style="&#45;&#45;color: #34495e">Vue.js</li>-->
+<!--            <li style="&#45;&#45;color: #0067b8">T-SQL</li>-->
+<!--            <li style="&#45;&#45;color: #d24939">Jenkins</li>-->
+<!--            <li style="&#45;&#45;color: #f98200">JSF</li>-->
+<!--            <li style="&#45;&#45;color: #25a162">JUnit</li>-->
+<!--            <li style="&#45;&#45;color: #363d3f">Kafka</li>-->
+<!--            <li style="&#45;&#45;color: #ff6804">Maven</li>-->
+<!--            <li style="&#45;&#45;color: #13aa52">MongoDB</li>-->
+<!--            <li style="&#45;&#45;color: #328fbf">Storm</li>-->
+<!--            <li style="&#45;&#45;color: #93b0da">SVN</li>-->
+<!--            <li style="&#45;&#45;color: #cea328">Tomcat</li>-->
+<!--          </ul>-->
         </main>
       </div>
       <div class="row">
@@ -118,6 +137,23 @@
             Lighting and Sound Operator at Liverpool Guild of Students, working with student
             societies and other organisations on musicals and events.
           </p>
+        </main>
+      </div>
+    </section>
+    <section>
+      <div class="row">
+        <aside><h2>Awards</h2></aside>
+      </div>
+      <div class="row">
+        <aside>2023</aside>
+        <main>
+          <header>
+            <a href="https://event.computing.co.uk/digitaltechnologyleaderswards2023/en/page/2023-finalists">
+              <b>Finalist for Young Digital Professional of the Year</b>
+            </a>
+
+          </header>
+          Computing - Digital Technology Leaders Award
         </main>
       </div>
     </section>
@@ -144,27 +180,27 @@
         </main>
       </div>
     </section>
-    <section>
-      <div class="row">
-        <aside><h2>Volunteering</h2></aside>
-      </div>
-      <div class="row">
-        <aside>2018 - 2019</aside>
-        <main>
-          <header>
-            <b>Society Co-President</b> at Liverpool Guild of Students (University of Liverpool)
-          </header>
-        </main>
-      </div>
-      <div class="row">
-        <aside>2017 - 2018</aside>
-        <main>
-          <header>
-            <b>Society Social Secretary</b> at Liverpool Guild of Students (University of Liverpool)
-          </header>
-        </main>
-      </div>
-    </section>
+<!--    <section>-->
+<!--      <div class="row">-->
+<!--        <aside><h2>Volunteering</h2></aside>-->
+<!--      </div>-->
+<!--      <div class="row">-->
+<!--        <aside>2018 - 2019</aside>-->
+<!--        <main>-->
+<!--          <header>-->
+<!--            <b>Society Co-President</b> at Liverpool Guild of Students (University of Liverpool)-->
+<!--          </header>-->
+<!--        </main>-->
+<!--      </div>-->
+<!--      <div class="row">-->
+<!--        <aside>2017 - 2018</aside>-->
+<!--        <main>-->
+<!--          <header>-->
+<!--            <b>Society Social Secretary</b> at Liverpool Guild of Students (University of Liverpool)-->
+<!--          </header>-->
+<!--        </main>-->
+<!--      </div>-->
+<!--    </section>-->
     <!--    <section>-->
     <!--      <div class="row">-->
     <!--        <aside><h2>Personal Projects</h2></aside>-->

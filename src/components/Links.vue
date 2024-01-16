@@ -2,8 +2,8 @@
   <main class="links">
     <a href="mailto:ben@pilgrim.me.uk" target="_blank">ben@pilgrim.me.uk</a>
     <icon name="envelope" />
-    <a href="https://goo.gl/maps/1xKU77pvmEt91xkp6" target="_blank"
-      >Ipswich, Suffolk</a
+    <a href="https://maps.app.goo.gl/VG6d3VYSqo2JQzQK8" target="_blank"
+      >Colchester, Essex</a
     >
     <icon name="map-marked-alt" />
     <a href="tel:07950365848" target="_blank">07950 365848</a>

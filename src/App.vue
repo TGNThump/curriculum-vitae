@@ -10,97 +10,79 @@
         <aside><h2>Employment</h2></aside>
       </div>
       <div class="row">
-        <aside>2022 - Current</aside>
+        <aside>Mar 2022 - Nov 2023</aside>
         <main>
+          <header>
+            <b><a href="https://www.mmtdigital.co.uk/">MMT Digital</a></b> - Cloud Systems Engineer
+          </header>
           <header>
             <b><a href="https://careers.vodafone.co.uk/digital-consumer">Vodafone</a></b> - Senior DevOps
             Engineer <span style="opacity: 0.75">(via MMT Digital)</span>
           </header>
           <ul style="margin: 0 15px">
             <li style="margin-bottom: 5px">
-              As a technical lead and senior engineer, I've championed software engineering and DevOps best practices, guiding my team to
-              improve code quality and reliability through automated testing, linting, formatting and type-checking at CI time.
-              I've also mentored junior and mid level engineers through pair programming and code reviews.
-            </li>
-            <li style="margin-bottom: 5px">
               As part of the SRE Leadership Team, I've helped to define and implement a strategy for the creation of a
-              global cloud engineering platform, a strategic initiative to centralise Cloud Engineering functions
-              across Vodafone into a single platform, driving internal efficiency while reducing time-to-market.
+              global Internal Developer Platform, a strategic initiative to centralise Cloud Engineering functions
+              across Vodafone into a single platform, driving internal efficiency while reducing time-to-market
             </li>
             <li style="margin-bottom: 5px">
-              I've worked across team boundaries, delegating where necessary, to mitigate blockers to strategic delivery.
+              I was drafted into a "Skunk Works" team to deliver an end-to-end prototype
+              of said platform, unlocking immediate value for both our team and another local market
             </li>
             <li style="margin-bottom: 5px">
-              I was drafted into a "Skunk Works" team of 8 engineers to spend two weeks delivering an end-to-end prototype
-              of the platform, driving rapid realisation of RIO by unlocking immediate value for both our team
-              and another local market.
+              I designed and lead development of serverless control plane APIs for the platform, using AWS Lambda, API Gateway, Step Functions, DynamoDB and S3
+            </li>
+            <li style="margin-bottom: 5px">
+              I developed and maintained Terraform modules for AWS infrastructure, including Lambda, API Gateway and CloudFront, used by multiple teams across Vodafone
+            </li>
+            <li style="margin-bottom: 5px">
+              I've worked across team boundaries, delegating where necessary, to mitigate blockers to strategic delivery
+            </li>
+            <li style="margin-bottom: 5px">
+              I led the design and development of an Azure Devops Pipelines CI/CD/CT framework for consumers of the platform,
+              enabling teams to deploy their services to multiple environments with minimal configuration
             </li>
             <li style="margin-bottom: 5px">
               I developed a package manager CLI tool and web interface for parameterised service templates,
-              accelerating time to market for Vodafone developers worldwide by enabling deployment of
-              new service repositories, complete with baseline, CI/CD, infrastructure and code in minutes rather than days.
+              accelerating time to market by enabling deployment of new service repositories, complete with baseline CI/CD, infrastructure and code in minutes rather than days
             </li>
             <li style="margin-bottom: 5px">
-              Lead design and development on implementing Pact based contract testing CI workflows
-              spanning multiple projects and teams to increase code quality and make deployments
-              safer.
+              I've championed software engineering and DevOps best practices, guiding my team to improve code quality and reliability through automated testing, linting, formatting and type-checking at CI time
+            </li>
+            <li style="margin-bottom: 5px">
+              I've mentored junior and mid level engineers through pair programming, code reviews, helping to improve their
+              technical skills and confidence
             </li>
           </ul>
-          <header>
-            <b><a href="https://www.mmtdigital.co.uk/">MMT Digital</a></b> - Cloud Systems Engineer
-          </header>
-          <ul style="margin: 0 15px">
-            <li style="margin-bottom: 5px">
-              Lead a MMT Digital fast-track team to deliver an AWS infrastructure project, making
-              use of Azure DevOps pipelines for CI/CD, to the highest quality the program had seen.
-            </li>
-            <li style="margin-bottom: 5px">
-              Developed an open-source Jetbrains IDE plugin to bring cfn-nag based linting support
-              for CloudFormation templates into PyCharm and IntelliJ.
-            </li>
-          </ul>
-<!--          <ul class="tech-list squares">-->
-<!--            <li style="&#45;&#45;color: #ff9900">AWS</li>-->
-<!--            <li style="&#45;&#45;color: #844fba">Terraform</li>-->
-<!--            <li style="&#45;&#45;color: #ff9900; grid-column: span 2">CloudFormation</li>-->
-<!--            <li style="&#45;&#45;color: #0062ad; grid-column: span 2">Azure DevOps</li>-->
-<!--            <li style="&#45;&#45;color: #f14e32">Git</li>-->
-<!--            <li style="&#45;&#45;color: #0db7ed">Docker</li>-->
-<!--            <li style="&#45;&#45;color: #4b8bbe">Python</li>-->
-<!--          </ul>-->
         </main>
       </div>
       <div class="row">
-        <aside>2019 - 2022</aside>
+        <aside>Jul 2019 - Mar 2022</aside>
         <main>
           <header>
             <b><a href="https://www.htk.co.uk/">HTK</a></b> - Software Engineer
           </header>
           <ul style="margin: 0 15px">
             <li style="margin-bottom: 5px">
-              Designed and developed a multi-account AWS architecture using Terraform for a
-              greenfield data lakehouse platform.
+              I designed and developed a multi-account AWS architecture using Terraform for a
+              greenfield data lakehouse platform
             </li>
             <li style="margin-bottom: 5px">
-              Technical owner, designer and lead developer of a distributed event-driven customer
-              journey automation platform.
+              I was the technical owner, designer and lead developer of a distributed event-driven customer
+              journey automation platform
             </li>
             <li style="margin-bottom: 5px">
-              Developed services, user interfaces and APIs following a 3-tier 3-tier application
-              model for a complex multi-tenant customer data platform.
-            </li>
-            <li style="margin-bottom: 5px">
-              Involved in mentoring and skill development for junior developers with a focus on code
-              quality through pair programming and code reviews.
+              I developed Java / Spring Boot based services, user interfaces and APIs following a 3-tier application
+              model for a multi-tenant SaaS platform
             </li>
             <li style="margin-bottom: 5px">
               Assisted the operations and quality assurance teams with investigating, mitigating and
-              fixing production incidents and bugs reported by customers.
+              fixing production incidents and bugs reported by customers
             </li>
             <li style="margin-bottom: 5px">
               Designed and developed frontend user interface pages and components, including a
-              complex promotion builder with a 'drag-n-drop' nested rule/segment editor for use by
-              customers.
+              complex promotion builder with a 'drag-n-drop' nested condition editor for use by
+              customers
             </li>
           </ul>
 <!--          <ul class="tech-list squares">-->
@@ -127,7 +109,7 @@
         </main>
       </div>
       <div class="row">
-        <aside>2018 - 2019</aside>
+        <aside>Sep 2018 - Jun 2019</aside>
         <main>
           <header>
             <b><a href="https://www.liverpoolguild.org/">Liverpool Guild of Students</a></b>
@@ -170,15 +152,15 @@
           </header>
         </main>
       </div>
-      <div class="row">
-        <aside>2014 - 2016</aside>
-        <main>
-          <header>
-            <b><a href="https://www.suffolkone.ac.uk/">One Sixth Form</a></b> - A Levels: Computing
-            (B), Electronics (A), Mathematics (D)
-          </header>
-        </main>
-      </div>
+<!--      <div class="row">-->
+<!--        <aside>2014 - 2016</aside>-->
+<!--        <main>-->
+<!--          <header>-->
+<!--            <b><a href="https://www.suffolkone.ac.uk/">One Sixth Form</a></b> - A Levels: Computing-->
+<!--            (B), Electronics (A), Mathematics (D)-->
+<!--          </header>-->
+<!--        </main>-->
+<!--      </div>-->
     </section>
 <!--    <section>-->
 <!--      <div class="row">-->
@@ -268,6 +250,15 @@
     <!--        </main>-->
     <!--      </div>-->
     <!--    </section>-->
+    <div class="row">
+      <aside></aside>
+      <main style="display: flex; align-items: center; justify-content: center;">
+        <img alt="Cloud Essentials" style="width: 75px;" src="https://images.credly.com/size/340x340/images/ec621e2a-c8f0-4459-806c-ae11829d372a/image.png"/>
+        <img alt="Architecting" style="width: 75px;" src="https://images.credly.com/size/340x340/images/519a6dba-f145-4c1a-85a2-1d173d6898d9/image.png"/>
+        <img alt="Serverless" style="width: 75px;" src="https://images.credly.com/size/340x340/images/e07c6cc4-b737-4d7e-8ce8-66b6b7a60367/image.png"/>
+        <img alt="Networking Core" style="width: 75px;" src="https://images.credly.com/size/340x340/images/e75f222b-7f75-4d7b-8a6a-67d68aa59d62/image.png"/>
+      </main>
+    </div>
   </div>
 </template>
 

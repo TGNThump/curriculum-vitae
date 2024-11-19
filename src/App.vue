@@ -7,7 +7,21 @@
     </section>
     <section>
       <div class="row">
-        <aside><h2>Employment</h2></aside>
+        <aside>Feb 2024 - Present</aside>
+        <main>
+          <header>
+            <b><a href="https://risqcapital.com">RISQ Capital</a></b> - Senior DevOps Engineer
+          </header>
+          <ul>
+            <li>Spearheaded delivery of a DevOps Strategy focused around five key initiatives; Foundational Infrastructure, Platform, Release Engineering, Security & Compliance and Site Reliability Engineering</li>
+            <li>Developed a AWS well-architected multi-account landing zone using Terraform and AWS CloudFormation, Organizations, CloudTrail and Config</li>
+            <li>Ensured people, pipelines and machines can securely access AWS APIs in a least-privileged manner using IAM, Identity Center, Systems Manager and Cognito</li>
+            <li>Designed and implemented a global hybrid network built around AWS Cloud WAN, connecting VPCs in multiple regions, as well as co-located networks</li>
+            <li>Facilitated rapid iteration and repeatable delivery through development of a python-based CI/CD toolchain that can be ran locally for rapid development iteration and in GitHub Actions for safe production deployments</li>
+            <li>Utilised AWS Systems Manager to provision and manage long-running tasks in performance-critical systems, on EC2 and managed hybrid instances and standardised architecture for scheduled and event driven tasks using containers, EventBridge, Step Functions and ECS</li>
+            <li>Reduced monthly AWS spend by 5% through targeted cost optimizations</li>
+          </ul>
+        </main>
       </div>
       <div class="row">
         <aside>Mar 2022 - Nov 2023</aside>
@@ -19,40 +33,34 @@
             <b><a href="https://careers.vodafone.co.uk/digital-consumer">Vodafone</a></b> - Senior DevOps
             Engineer <span style="opacity: 0.75">(via MMT Digital)</span>
           </header>
-          <ul style="margin: 0 15px">
-            <li style="margin-bottom: 5px">
-              As part of the SRE Leadership Team, I've helped to define and implement a strategy for the creation of a
-              global Internal Developer Platform, a strategic initiative to centralise Cloud Engineering functions
-              across Vodafone into a single platform, driving internal efficiency while reducing time-to-market
+          <ul>
+            <li>
+              Helped to define and implement a strategy for the creation of a global Internal Developer Platform, driving internal efficiency while reducing time-to-market
             </li>
-            <li style="margin-bottom: 5px">
-              I was drafted into a "Skunk Works" team to deliver an end-to-end prototype
-              of said platform, unlocking immediate value for both our team and another local market
+            <li>
+              Delivered an end-to-end proof of concept, successfully onboarding our first local market team, demonstrating value to the wider business and providing rapid feedback to component teams
             </li>
-            <li style="margin-bottom: 5px">
-              I designed and lead development of serverless control plane APIs for the platform, using AWS Lambda, API Gateway, Step Functions, DynamoDB and S3
+            <li>
+              Designed and lead development of serverless control plane APIs for the platform, using AWS Lambda, API Gateway, Step Functions, DynamoDB and S3
             </li>
-            <li style="margin-bottom: 5px">
-              I developed and maintained Terraform modules for AWS infrastructure, including Lambda, API Gateway and CloudFront, used by multiple teams across Vodafone
+            <li>Maintained Terraform modules for Lambda, API Gateway and CloudFront used by multiple teams across Vodafone</li>
+            <li>
+              Worked across team boundaries, delegating where necessary, to mitigate blockers to strategic delivery and ensure the platform was delivered on time and to a high standard
             </li>
-            <li style="margin-bottom: 5px">
-              I've worked across team boundaries, delegating where necessary, to mitigate blockers to strategic delivery
+            <li>
+              Lead the design and development of an Azure Devops based CI/CD/CT framework, enabling teams to deploy their services to multiple environments with minimal configuration
             </li>
-            <li style="margin-bottom: 5px">
-              I led the design and development of an Azure Devops Pipelines CI/CD/CT framework for consumers of the platform,
-              enabling teams to deploy their services to multiple environments with minimal configuration
+            <li>
+              Developed a CLI tool and web interface for parameterised service templates, enabling deployment of new services, complete with baseline CI/CD, infrastructure and code in minutes rather than days
             </li>
-            <li style="margin-bottom: 5px">
-              I developed a package manager CLI tool and web interface for parameterised service templates,
-              accelerating time to market by enabling deployment of new service repositories, complete with baseline CI/CD, infrastructure and code in minutes rather than days
+            <li>
+              Guided my team to improve code quality and reliability through automated testing, linting, formatting and type-checking at CI time
             </li>
-            <li style="margin-bottom: 5px">
-              I've championed software engineering and DevOps best practices, guiding my team to improve code quality and reliability through automated testing, linting, formatting and type-checking at CI time
-            </li>
-            <li style="margin-bottom: 5px">
-              I've mentored junior and mid level engineers through pair programming, code reviews, helping to improve their
+            <li>
+              Mentored junior and mid level engineers through pair programming, code reviews, helping to improve their
               technical skills and confidence
             </li>
+            <li>Shortlisted as a finalist for <a href="https://event.computing.co.uk/digitaltechnologyleaderswards2023/en/page/2023-finalists">Young Digital Professional of the Year</a> in the 2023 Computing Digital Technology Leaders Awards</li>
           </ul>
         </main>
       </div>
@@ -62,86 +70,20 @@
           <header>
             <b><a href="https://www.htk.co.uk/">HTK</a></b> - Software Engineer
           </header>
-          <ul style="margin: 0 15px">
-            <li style="margin-bottom: 5px">
-              I designed and developed a multi-account AWS architecture using Terraform for a
-              greenfield data lakehouse platform
+          <ul>
+            <li>Worked on a variety of services and projects, primarily as a Java backend engineer on an event-driven multi-tenant loyalty and marketing automation platform</li>
+            <li>Developed a real-time transaction and promotion rules engine using Spring Boot, Kafka, Storm and DocumentDB</li>
+            <li>Wrote T-SQL migration scripts and helped maintain schemas and stored procedures for multiple large databases</li>
+            <li>
+              Developed a proof of concept for a multi-account AWS architecture using Terraform for a greenfield data lakehouse platform, driving my interest in cloud engineering
             </li>
-            <li style="margin-bottom: 5px">
-              I was the technical owner, designer and lead developer of a distributed event-driven customer
-              journey automation platform
-            </li>
-            <li style="margin-bottom: 5px">
-              I developed Java / Spring Boot based services, user interfaces and APIs following a 3-tier application
-              model for a multi-tenant SaaS platform
-            </li>
-            <li style="margin-bottom: 5px">
-              Assisted the operations and quality assurance teams with investigating, mitigating and
-              fixing production incidents and bugs reported by customers
-            </li>
-            <li style="margin-bottom: 5px">
+            <li>
               Designed and developed frontend user interface pages and components, including a
               complex promotion builder with a 'drag-n-drop' nested condition editor for use by
               customers
             </li>
           </ul>
-<!--          <ul class="tech-list squares">-->
-<!--            <li style="&#45;&#45;color: #ff9900">AWS</li>-->
-<!--            <li style="&#45;&#45;color: #844fba">Terraform</li>-->
-<!--            <li style="&#45;&#45;color: #f14e32">Git</li>-->
-<!--            <li style="&#45;&#45;color: #0db7ed">Docker</li>-->
-<!--            <li style="&#45;&#45;color: #e535ab">GraphQL</li>-->
-<!--            <li style="&#45;&#45;color: #b07219">Java</li>-->
-<!--            <li style="&#45;&#45;color: #80ea6e">Spring</li>-->
-<!--            <li style="&#45;&#45;color: #f1e05a">JavaScript</li>-->
-<!--            <li style="&#45;&#45;color: #34495e">Vue.js</li>-->
-<!--            <li style="&#45;&#45;color: #0067b8">T-SQL</li>-->
-<!--            <li style="&#45;&#45;color: #d24939">Jenkins</li>-->
-<!--            <li style="&#45;&#45;color: #f98200">JSF</li>-->
-<!--            <li style="&#45;&#45;color: #25a162">JUnit</li>-->
-<!--            <li style="&#45;&#45;color: #363d3f">Kafka</li>-->
-<!--            <li style="&#45;&#45;color: #ff6804">Maven</li>-->
-<!--            <li style="&#45;&#45;color: #13aa52">MongoDB</li>-->
-<!--            <li style="&#45;&#45;color: #328fbf">Storm</li>-->
-<!--            <li style="&#45;&#45;color: #93b0da">SVN</li>-->
-<!--            <li style="&#45;&#45;color: #cea328">Tomcat</li>-->
-<!--          </ul>-->
         </main>
-      </div>
-      <div class="row">
-        <aside>Sep 2018 - Jun 2019</aside>
-        <main>
-          <header>
-            <b><a href="https://www.liverpoolguild.org/">Liverpool Guild of Students</a></b>
-            - Student Staff Theatre Technician
-          </header>
-          <p>
-            Lighting and Sound Operator at Liverpool Guild of Students, working with student
-            societies and other organisations on musicals and events.
-          </p>
-        </main>
-      </div>
-    </section>
-    <section>
-      <div class="row">
-        <aside><h2>Awards</h2></aside>
-      </div>
-      <div class="row">
-        <aside>2023</aside>
-        <main>
-          <header>
-            <a href="https://event.computing.co.uk/digitaltechnologyleaderswards2023/en/page/2023-finalists">
-              <b>Finalist for Young Digital Professional of the Year</b>
-            </a>
-
-          </header>
-          Computing - Digital Technology Leaders Award
-        </main>
-      </div>
-    </section>
-    <section>
-      <div class="row">
-        <aside><h2>Education</h2></aside>
       </div>
       <div class="row">
         <aside>2016 - 2019</aside>
@@ -152,113 +94,16 @@
           </header>
         </main>
       </div>
-<!--      <div class="row">-->
-<!--        <aside>2014 - 2016</aside>-->
-<!--        <main>-->
-<!--          <header>-->
-<!--            <b><a href="https://www.suffolkone.ac.uk/">One Sixth Form</a></b> - A Levels: Computing-->
-<!--            (B), Electronics (A), Mathematics (D)-->
-<!--          </header>-->
-<!--        </main>-->
-<!--      </div>-->
     </section>
-<!--    <section>-->
-<!--      <div class="row">-->
-<!--        <aside><h2>Volunteering</h2></aside>-->
-<!--      </div>-->
-<!--      <div class="row">-->
-<!--        <aside>2018 - 2019</aside>-->
-<!--        <main>-->
-<!--          <header>-->
-<!--            <b>Society Co-President</b> at Liverpool Guild of Students (University of Liverpool)-->
-<!--          </header>-->
-<!--        </main>-->
-<!--      </div>-->
-<!--      <div class="row">-->
-<!--        <aside>2017 - 2018</aside>-->
-<!--        <main>-->
-<!--          <header>-->
-<!--            <b>Society Social Secretary</b> at Liverpool Guild of Students (University of Liverpool)-->
-<!--          </header>-->
-<!--        </main>-->
-<!--      </div>-->
-<!--    </section>-->
-    <!--    <section>-->
-    <!--      <div class="row">-->
-    <!--        <aside><h2>Personal Projects</h2></aside>-->
-    <!--      </div>-->
-    <!--      <div class="row">-->
-    <!--        <aside>-->
-    <!--          <a-->
-    <!--            href="https://github.com/TGNThump/ActivityStreams4J"-->
-    <!--            target="_blank"-->
-    <!--            >ActivityStreams4J</a-->
-    <!--          >-->
-    <!--        </aside>-->
-    <!--        <main>-->
-    <!--          <p>-->
-    <!--            A personal open source project creating a Java library consisting of-->
-    <!--            data transfer objects for the W3C ActivityStreams 2.0 specification,-->
-    <!--            along with the ActivityPub extension.-->
-    <!--          </p>-->
-    <!--        </main>-->
-    <!--      </div>-->
-    <!--      <div class="row">-->
-    <!--        <aside>scribbled.by</aside>-->
-    <!--        <main>-->
-    <!--          <p>-->
-    <!--            A collaborative note-taking web application designed and developed-->
-    <!--            as part of my degree dissertation project.-->
-    <!--          </p>-->
-    <!--        </main>-->
-    <!--      </div>-->
-    <!--      <div class="row">-->
-    <!--        <aside>-->
-    <!--          <a href="https://hub.pilgrim.me.uk/" target="_blank"-->
-    <!--            >hub.pilgrim.me.uk</a-->
-    <!--          >-->
-    <!--        </aside>-->
-    <!--        <main>-->
-    <!--          <p>-->
-    <!--            Personal home-lab started in 2016 with 20+ services, deployed as-->
-    <!--            docker containers. Services are listed on an open-sourced start-page-->
-    <!--            that dynamically discovers ports exposed through a Traefik reverse-->
-    <!--            proxy via the docker API.-->
-    <!--          </p>-->
-    <!--        </main>-->
-    <!--      </div>-->
-    <!--      <div class="row">-->
-    <!--        <aside>EV3 SDK</aside>-->
-    <!--        <main>-->
-    <!--          <p>-->
-    <!--            A java library for the EV3 Mindstorm Robots that facilitates the-->
-    <!--            study of mobile computing problems, such as odometry tracking,-->
-    <!--            sensor data modelling and multi-agent systems.-->
-    <!--          </p>-->
-    <!--        </main>-->
-    <!--      </div>-->
-    <!--      <div class="row">-->
-    <!--        <aside>OneReset</aside>-->
-    <!--        <main>-->
-    <!--          <p>-->
-    <!--            A self-service password reset kiosk system, developed for the One-->
-    <!--            sixth form college. The kiosk application allowed students to reset-->
-    <!--            their active directory password without needing to contact the-->
-    <!--            service desk for human assistance after scanning their NFC-enabled-->
-    <!--            id card and verifying their identity.-->
-    <!--          </p>-->
-    <!--        </main>-->
-    <!--      </div>-->
-    <!--    </section>-->
-    <div class="row">
-      <aside></aside>
-      <main style="display: flex; align-items: center; justify-content: center;">
-        <img alt="Cloud Essentials" style="width: 75px;" src="https://images.credly.com/size/340x340/images/ec621e2a-c8f0-4459-806c-ae11829d372a/image.png"/>
-        <img alt="Architecting" style="width: 75px;" src="https://images.credly.com/size/340x340/images/519a6dba-f145-4c1a-85a2-1d173d6898d9/image.png"/>
-        <img alt="Serverless" style="width: 75px;" src="https://images.credly.com/size/340x340/images/e07c6cc4-b737-4d7e-8ce8-66b6b7a60367/image.png"/>
-        <img alt="Networking Core" style="width: 75px;" src="https://images.credly.com/size/340x340/images/e75f222b-7f75-4d7b-8a6a-67d68aa59d62/image.png"/>
-      </main>
-    </div>
+<!--    <div class="row">-->
+<!--      <aside></aside>-->
+<!--      <main style="display: flex; align-items: center; justify-content: center;">-->
+<!--        <img alt="Cloud Essentials" style="width: 75px;" src="https://images.credly.com/size/340x340/images/ec621e2a-c8f0-4459-806c-ae11829d372a/image.png"/>-->
+<!--        <img alt="Architecting" style="width: 75px;" src="https://images.credly.com/size/340x340/images/519a6dba-f145-4c1a-85a2-1d173d6898d9/image.png"/>-->
+<!--        <img alt="Serverless" style="width: 75px;" src="https://images.credly.com/size/340x340/images/e07c6cc4-b737-4d7e-8ce8-66b6b7a60367/image.png"/>-->
+<!--        <img alt="Networking Core" style="width: 75px;" src="https://images.credly.com/size/340x340/images/e75f222b-7f75-4d7b-8a6a-67d68aa59d62/image.png"/>-->
+<!--      </main>-->
+<!--    </div>-->
   </div>
 </template>
 
@@ -405,5 +250,13 @@ h1 {
     margin: 0.1em 0.5em 0.1em 0.1em;
     float: left;
   }
+}
+
+ul {
+  margin: 0 15px;
+}
+
+li {
+  margin-bottom: 5px;
 }
 </style>

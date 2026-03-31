@@ -19,8 +19,8 @@
           <li>
             Developed a custom
             <acronym title="Continuous Integration / Continuous Delivery">CI/CD</acronym>
-            framework for fast, reproducible local and GitHub Actions builds and deployments,
-            underpinned by open-source libraries.
+            framework in Python for fast, reproducible local and GitHub Actions builds and
+            deployments, instrumented with OpenTelemetry, underpinned by open-source libraries.
             <repo-link href="https://github.com/risqcapital/pyhcl2">pyhcl2</repo-link>
             <repo-link href="https://github.com/risqcapital/pyagnostics">pyagnostics</repo-link>
           </li>
@@ -91,13 +91,8 @@
             in the 2023 Computing Digital Technology Leaders Awards.
           </li>
           <li>
-            Contributed to strategy for a global Internal Developer Platform, improving developer
-            efficiency and reducing time to market.
-
-            <!--            Review-->
-          </li>
-          <li>
-            Drafted into hand-selected specialist team of experts to resolve key strategic blockers.
+            Drafted into a hand-selected specialist team to drive strategy and resolve key blockers
+            on a global Internal Developer Platform.
           </li>
           <li>
             Led development of control-plane interfaces for the platform, built on serverless
@@ -119,12 +114,17 @@
             static site hosting, driving efficiency through reuse.
           </li>
           <li>
-            Delivered improvements in code quality and reliability through leading my team's
-            adoption of automated testing, linting, formatting and type-checking.
+            Used Datadog to investigate and resolve production issues across the platform, spanning
+            metrics, distributed traces, and logs.
           </li>
           <li>
-            Mentored multiple junior and mid-level engineers through pair programming and code
-            reviews, helping to improve their technical skills and confidence.
+            Improved team code quality through adoption of automated testing, linting and
+            type-checking, and mentored junior engineers through pair programming and code reviews.
+          </li>
+          <li>
+            Operated in a multicloud environment including
+            <acronym title="Google Cloud Platform">GCP</acronym>, resolving production client
+            onboarding issues in Apigee API Gateway.
           </li>
         </ul>
       </role-block>
@@ -136,9 +136,9 @@
         </template>
         <ul>
           <li>
-            Contributed as a backend engineer to multiple projects built in Java using Spring Boot,
-            Kafka, Storm and DocumentDB. These included a real-time transaction and promotion rules
-            engine and a multi-tenant loyalty and marketing automation platform.
+            Contributed as a backend engineer to distributed systems including a real-time
+            transaction and promotion rules engine and a multi-tenant loyalty and marketing
+            automation platform.
           </li>
           <li>
             Developed third-party integrations and
@@ -149,10 +149,6 @@
             Delivered a multi-account <acronym title="Amazon Web Services">AWS</acronym> landing
             zone proof-of-concept in Terraform for a greenfield data lake-house platform, expanding
             my skill-set into AWS and cloud technologies.
-          </li>
-          <li>
-            Integrated Vue.js into a legacy Java/Jakarta Server Faces environment to enable
-            incremental frontend modernisation.
           </li>
         </ul>
       </role-block>
@@ -165,7 +161,6 @@
             Consulted on cloud architecture for a
             <Acronym title="Anti-money laundering">AML</Acronym> transaction monitoring platform.
           </li>
-          <li>Developed a cross-platform mobile app in React Native for gamified task tracking.</li>
           <li>
             Built open-source components for managing VYoS routers at scale.
             <repo-link href="https://github.com/TGNThump/terraform-provider-vyos"

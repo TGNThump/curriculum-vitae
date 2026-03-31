@@ -37,7 +37,7 @@
           </li>
           <li>
             Planned, implemented and administered RISQ Group's Information Security Management
-            System, to compy with external standards within a regulated industry.
+            System, to comply with external standards within a regulated industry.
           </li>
           <li>
             Architected RISQ's global hybrid network using Cloud WAN,
@@ -55,6 +55,10 @@
           <li>
             Built a data platform for batch and streaming time-series market data, with
             metadata-driven integrity and retry handling.
+          </li>
+          <li>
+            Monitored trading infrastructure using CloudWatch and Grafana, with structured logs
+            centralised to S3 and metrics dashboards providing operational visibility.
           </li>
           <li>
             Designed and developed a customer facing gaming web application using React and Convex

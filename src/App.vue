@@ -10,7 +10,35 @@
       </section>
       <section>
         <role-block>
-        <template #date>Feb 2024 - Present</template>
+          <template #date>May 2026 - Present</template>
+          <template #header>
+            <b>Byteshuttle</b>
+            <span>Director / Contractor</span>
+            <b>MSQ DX</b>
+            <span>Project Lead Engineer</span>
+          </template>
+          <ul>
+            <li>
+              Conducted technical discovery workshops with stakeholders from 7 business
+              functions to identify strategic agentic development use cases.
+            </li>
+            <li>
+              Led a client team architecting and delivering pro-code agentic systems for a
+              multinational telecoms client, using AG-UI, Strands, AWS AgentCore, and Amazon
+              Bedrock.
+            </li>
+            <li>
+              Delivered a reporting agent projected to save 3,000 hours of manual report
+              collation, automating business processes for non-technical users.
+            </li>
+          </ul>
+          <hr class="role-divider" />
+          <ul>
+            <li>Advised on cloud architecture for an AML transaction-monitoring platform.</li>
+          </ul>
+        </role-block>
+        <role-block>
+        <template #date>Feb 2024 - May 2026</template>
         <template #header>
           <b><a href="https://www.risqcapital.com/">RISQ Research</a></b>
           <span>Senior DevOps Engineer</span>
@@ -125,11 +153,6 @@
             Improved team code quality through adoption of automated testing, linting and
             type-checking, and mentored junior engineers through pair programming and code reviews.
           </li>
-          <li>
-            Operated in a multicloud environment including
-            <acronym title="Google Cloud Platform">GCP</acronym>, resolving production client
-            onboarding issues in Apigee API Gateway.
-          </li>
         </ul>
       </role-block>
       <role-block>
@@ -153,23 +176,6 @@
             Delivered a multi-account <acronym title="Amazon Web Services">AWS</acronym> landing
             zone proof-of-concept in Terraform for a greenfield data lake-house platform, expanding
             my skill-set into AWS and cloud technologies.
-          </li>
-        </ul>
-      </role-block>
-      <role-block>
-        <template #header>
-          <b>Consulting &<br />Personal Projects</b>
-        </template>
-        <ul>
-          <li>
-            Consulted on cloud architecture for a
-            <Acronym title="Anti-money laundering">AML</Acronym> transaction monitoring platform.
-          </li>
-          <li>
-            Built open-source components for managing VYoS routers at scale.
-            <repo-link href="https://github.com/TGNThump/terraform-provider-vyos"
-              >terraform-provider-vyos</repo-link
-            >
           </li>
         </ul>
       </role-block>
@@ -338,6 +344,11 @@ abbr[title] {
   opacity: 0.75;
 }
 
+.role-divider {
+  border: 0;
+  border-top: 1px solid rgba($primary, 0.2);
+}
+
 .sheet,
 section {
   display: flex;
@@ -349,7 +360,7 @@ section {
 }
 
 .row:not(.header) {
-  margin-bottom: 1.4em;
+  margin-bottom: 0.75em;
 }
 
 .row {

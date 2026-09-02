@@ -4,8 +4,9 @@
   "private": true,
   "scripts": {
     "dev": "vite",
-    "build": "vite build",
+    "build": "vite build && npm run lint:page",
     "build-pdf": "electron --no-sandbox --disable-dev-shm-usage --disable-gpu pdf.js",
+    "lint:page": "electron --no-sandbox --disable-dev-shm-usage --disable-gpu check-page.js",
     "preview": "vite preview",
     "lint": "eslint . --fix",
     "format": "prettier --write src/"
